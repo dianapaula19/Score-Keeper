@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="points10">Goal</string>
+    <string name="points150">The seeker catches the Golden Snitch</string>
+    <string name="scoreGryffindor">0</string>
+    <string name="scoreSlyhterin">0</string>
+    <string name="reset">reset</string>
+</resources>
